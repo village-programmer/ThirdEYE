@@ -67,7 +67,10 @@ Donation:
 #### Admin Password
 * The default admin password is : &nbsp;&nbsp;<i>Admin</i>  
   
+#### Install all the requirements 
+* > pip install -r requirements.txt  
 
+&nbsp;&nbsp;the file is inside <i>ThirdEYE/Code/</i>
   
 
 ## Directory Structure:   
