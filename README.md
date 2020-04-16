@@ -20,14 +20,19 @@ Computer Vision App for Surveillance
 
 ## System I've Used:
 <pre>
+<u>Main</u>
 * Operating System : Windows 10 (build 1909)
 * Ram : 8GB
 * Processor : AMD Dual Core 3GHZ
   
 <u>Others</u>
-* WSL : Ubuntu 
+* WSL : Ubuntu 18.04
 * Google Colab
 </pre>
+  
+## Features:   
+
+
 
 ## Directory Structure:   
 <pre>
