@@ -1,4 +1,4 @@
-# ThirdEYE - Surveillance System
+# __ThirdEYE - Surveillance System__
 Computer Vision App for Surveillance  
 
 ## Requirements:  
@@ -23,6 +23,10 @@ Computer Vision App for Surveillance
 * Operating System : Windows 10 (build 1909)
 * Ram : 8GB
 * Processor : AMD Dual Core 3GHZ
+  
+<u>Others</u>
+* WSL : Ubuntu 
+* Google Colab
 </pre>
 
 ## Directory Structure:   
