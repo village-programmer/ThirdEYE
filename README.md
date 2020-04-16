@@ -1,8 +1,31 @@
 # ThirdEYE - Surveillance System
 Computer Vision App for Surveillance  
 
+## Requirements:  
+>* Python 3.6  
+>  &nbsp;
+>* dlib==19.8.1  
+>* imutils==0.5.3
+>* mysql-connector==2.2.9
+>* numpy==1.18.1
+>* opencv-python==4.1.0.25
+>* pandas==1.0.1
+>* Pillow==7.0.0
+>* playsound==1.2.2
+>* pypiwin32==223
+>* PyQt5==5.14.1
+>* PyQt5-sip==12.7.1
+>* pywin32==227
+>* pywin32-ctypes==0.2.0
 
-## Directory Structure   
+## System I've Used:
+<pre>
+* Operating System : Windows 10 (build 1909)
+* Ram : 8GB
+* Processor : AMD Dual Core 3GHZ
+</pre>
+
+## Directory Structure:   
 <pre>
 <u>Third Eye</u>
 │   .gitattributes
