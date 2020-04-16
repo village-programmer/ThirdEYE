@@ -58,6 +58,18 @@ Donation:
 3. > python  third_eye.py
 4. leave the system running. . .
    
+#### To setup the alert system:
+1. Put your phone number (DND activated) in settings tab
+2. Your gmail address
+3. Any Message
+4. [important] Put your gmail and password into the      &nbsp;&nbsp;<i>Code/Alert/loginfile.txt</i> &nbsp;&nbsp;and enable less secure feature in your gmail.
+   
+#### Admin Password
+* The default admin password is : &nbsp;&nbsp;<i>Admin</i>  
+  
+
+  
+
 ## Directory Structure:   
 <pre>
 <u>Third Eye</u>
