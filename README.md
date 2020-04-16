@@ -1,9 +1,17 @@
 # __ThirdEYE - Surveillance System__
 Computer Vision App for Surveillance  
 
+This app is based on Python 3.6 and OpenCV
+
+Please contribute in the development and improvement  of the software. 
+
+Donation: 
+* [Paypal](www.paypal.me/vikaspatelp83)
+* Paytm : 9575357966
+* [Bitcoin](https://vikaspatelp83.bitcoinwallet.com/) : 188c9Y1QSpFYYteiT2qEmn787a1bryasF1
+
 ## Requirements:  
 >* Python 3.6  
->  &nbsp;
 >* dlib==19.8.1  
 >* imutils==0.5.3
 >* mysql-connector==2.2.9
@@ -42,8 +50,14 @@ Computer Vision App for Surveillance
 9.  Wired and Wireless Camera Connectivity
 10. And More . . . .  
 
+## Instructions:  
+#### To RUN the application:  
+1. Install all the requirements
 
-
+2. Change the directory to: <i>'ThirdEYE/Code/'</i>
+3. > python  third_eye.py
+4. leave the system running. . .
+   
 ## Directory Structure:   
 <pre>
 <u>Third Eye</u>
@@ -96,3 +110,25 @@ Computer Vision App for Surveillance
         settings3.png
         video.png</pre>
 
+
+## Images : 
+#### Home 
+![Home](Screenshots/home.png)
+
+#### Camera Settings 
+![Settings](Screenshots/settings1.png)
+
+#### Alert Settings 
+![Settings](Screenshots/settings2.png)
+
+#### Password Settings 
+![Settings](Screenshots/settings3.png)
+
+#### About
+![About](Screenshots/about.png)
+
+#### Contact 
+![Contact](Screenshots/contact.png)
+
+#### Donate 
+![Donate](Screenshots/donate.png)
