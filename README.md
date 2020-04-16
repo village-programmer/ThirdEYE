@@ -98,6 +98,13 @@ Donation:
 │       surveillanceTest.pdf
 │       third_eye.pdf
 │
+├───Outputs
+│   ├───images
+│   │       img_0.png
+│   │
+│   └───video
+│           REC 16-04-2020 21-41.avi
+│
 └───Screenshots
         about.png
         alert-cv-threshhold-edges.png
