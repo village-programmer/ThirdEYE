@@ -31,6 +31,16 @@ Computer Vision App for Surveillance
 </pre>
   
 ## Features:   
+1.  Easy to use
+2.  Fast & Highly optimized (Multithreaded)
+3.  Highly Configurable
+4.  Free & Open Source
+5.  Less Maintenance Needed
+6.  Secure Database
+7.  Multiple Alert Systems (SMS, Alarm, Email etc.)
+8.  Beautiful User Interface
+9.  Wired and Wireless Camera Connectivity
+10. And More . . . .  
 
 
 
