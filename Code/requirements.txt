@@ -9,6 +9,6 @@ playsound==1.2.2
 pypiwin32==223
 PyQt5==5.14.1
 PyQt5-sip==12.7.1
-pywin32==227
+pywin32==301
 pywin32-ctypes==0.2.0
 
