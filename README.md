@@ -11,6 +11,7 @@ Donation:
 * [Bitcoin](https://vikaspatelp83.bitcoinwallet.com/) : 188c9Y1QSpFYYteiT2qEmn787a1bryasF1
 
 ## Requirements:  
+**Check [Requirements.txt](./Code/requirements.txt) file for updated requirements**
 >* Python 3.6  
 >* dlib==19.8.1  
 >* imutils==0.5.3
