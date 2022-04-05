@@ -55,6 +55,8 @@ Please contribute in the development and improvement of the software.
 
 #### To RUN the application:
 
+0. Install opencv from [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv)
+
 1. Install all the requirements
 
 2. Change the directory to: <i>'ThirdEYE/Code/'</i>
